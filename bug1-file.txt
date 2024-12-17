@@ -1,1 +1,3 @@
 bug fix code required
+
+- 02 - more changes
